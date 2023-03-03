@@ -1,8 +1,8 @@
 {
-  "name": "discord-dot-ai",
+  "name": "discord-bot-ai",
   "version": "0.0.1-beta",
   "main": "index.js",
-  "repository": "https://github.com/jeremy776/Discord-Bot-AI.git",
+  "repository": "https://github.com/jeremy776/Discord-Bot.git",
   "author": "jeremy776 <jeremy.kusuma2018@gmail.com>",
   "license": "MIT",
   "private": true,
